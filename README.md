@@ -1,7 +1,7 @@
 ### Machine Learning - Classification
 # Prediction of an individual year income based on its profil. 
 
-This data was extracted from the census bureau database found at http://www.census.gov/ftp/pub/DES/www/welcome.html
+This data was extracted from the census bureau database found at https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc.html
 Donor: Ronny Kohavi and Barry Becker, Data Mining and Visualization, Silicon Graphics.
 
 The prediction task is to determine whether a person makes over 50K a year.
